@@ -1,6 +1,21 @@
+.product-box{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    width: 50%;
+    margin: 40px 40px;
+}
 .singleProduct{
     display: flex;
 }
 .product-brief{
     display: flex;
+}
+.rating{
+    color: goldenrod;
+    font-size: 0.6rem;
+}
+.add-btn{
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    background-color: gold;
+    border: none;
 }
