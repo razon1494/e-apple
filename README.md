@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Project Name: E apple
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is live in this URL (https://gobdgo.netlify.app/).
 
-## Available Scripts
+## Project Details
 
 In the project directory, you can run:
 
